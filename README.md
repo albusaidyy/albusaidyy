@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**albusaidy05/albusaidy05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Ice On The Go
