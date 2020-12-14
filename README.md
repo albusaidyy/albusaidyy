@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=albusaidy05)](https://github.com/anuraghazra/github-readme-stats)
+
+
