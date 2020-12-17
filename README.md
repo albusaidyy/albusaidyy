@@ -8,13 +8,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Mobile development
 - 📫 How to reach me: 
-      📱 Twitter - [albusaidy05](https://twitter.com/albusaidy05) 
-      ✉️  Email - [albusaidy05@gmail.com](mailto:albusaidy05@gmail.com)  
+      > 📱 Twitter : 
+      > [albusaidy05](https://twitter.com/albusaidy05) 
+      > ✉️  Email : 
+      >  [albusaidy05@gmail.com](mailto:albusaidy05@gmail.com)  
       
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Get to know me
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=albusaidy05&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![My Stats](https://github-readme-stats.vercel.app/api?username=albusaidy05&&show_icons=true&title_color=ffffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
