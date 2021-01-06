@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+
+I’m a self-motivated, flexible and dedicated individual with strong analytical skills and technical experience/skills in software and application development, user support and operations. Able to deliver in a timely fashion with minimum supervision.
 
 - 🔭 I’m currently working on Ice On The Go
 - 🌱 I’m currently learning Javascript
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
  > ✉️ Email :
  > [albusaidy05@gmail.com](mailto:albusaidy05@gmail.com)     
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Get to know me
+- ⚡ Fun fact: Try to beat me of Fifa
 
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=albusaidy05&&show_icons=true&title_color=ffffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
