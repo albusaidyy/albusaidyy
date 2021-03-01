@@ -14,7 +14,7 @@ I’m a self-motivated, flexible and dedicated individual with strong analytical
  > ✉️ Email :
  > [albusaidy05@gmail.com](mailto:albusaidy05@gmail.com)     
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Try to beat me on Fifa
+- ⚡ Fun fact: Try to beat me on FIFA
 
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=albusaidy05&&show_icons=true&title_color=ffffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
