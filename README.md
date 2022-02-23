@@ -12,7 +12,7 @@ I’m a self-motivated, flexible and dedicated individual with strong analytical
 
  > ✉️ Email :
  > [albusaidy05@gmail.com](mailto:albusaidy05@gmail.com)     
-- 😄 Pronouns: He/His
+ 
 - ⚡ Fun fact: Try to beat me on FIFA
 
 
