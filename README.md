@@ -15,7 +15,3 @@ I’m a self-motivated, flexible and dedicated individual with strong analytical
  
 - ⚡ Fun fact: Try to beat me on FIFA
 
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=albusaidyy&&show_icons=true&title_color=ffffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-
