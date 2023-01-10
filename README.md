@@ -1,4 +1,4 @@
-### Hi there 👋
+### Rada 👋
 
 
 I’m a self-motivated, flexible and dedicated individual with strong analytical skills and technical experience/skills in software and application development, user support and operations. Able to deliver in a timely fashion with minimum supervision.
@@ -11,7 +11,9 @@ I’m a self-motivated, flexible and dedicated individual with strong analytical
 - 📫 How to reach me: 
 
  > ✉️ Email :
- > [albusaidy05@gmail.com](mailto:albusaidy05@gmail.com)     
+ > [albusaidy05@gmail.com](mailto:albusaidy05@gmail.com)  
+
+ >📱 Twitter : [_albusaidy](https://twitter.com/_albusaidy)    
  
-- ⚡ Fun fact: Try to beat me on FIFA
+- ⚡ Fun fact: I do causal gaming
 
