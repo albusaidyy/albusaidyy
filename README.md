@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾 </h1>
 
-<p align='center'>I am a Mobile Developer focused in Flutter💙. Conversant in Kotlin, Java and Web development </p>
+<p align='center'>I am a Mobile Developer focused in Flutter💙. Conversant in Kotlin, Java, and sometime I do Web development </p>
 
 
 <p align='center'>
