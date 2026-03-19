@@ -1,17 +1,17 @@
 <h1 align='center'>Hi there 👋🏾 </h1>
 
-<p align='center'>I am a Mobile Developer using Flutter 💙. Conversant in Kotlin, Java, and sometimes I do Web development </p>
+<p align='center'>Full-Stack Developer with a Mobile background 📱 → 🌐 | Flutter 💙 · Next.js · TypeScript</p>
 
 ## 🚀 About Me
 
-I'm a passionate mobile developer with expertise in Flutter development. I love building beautiful, performant, and user-friendly mobile applications. When I'm not coding, I enjoy contributing to the developer community.
+I'm a Full-Stack Developer with roots in mobile development. I started with Flutter and have grown into building complete products — from cross-platform mobile apps to full-stack web platforms. I love crafting performant, user-friendly experiences on any platform.
 
 ## 💻 Skills
 
 - **Mobile Development**: Flutter, Kotlin, Java
-- **Web Development**: HTML, CSS, JavaScript
-- **Tools & Technologies**: Git, Firebase, REST APIs, GraphQL
-- **Soft Skills**: Problem Solving, Team Collaboration
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, HTML, CSS, JavaScript
+- **Backend**: Node.js, REST APIs, Prisma ORM, PostgreSQL, Zod
+- **Cloud & Tools**: AWS S3, Firebase, Git, GraphQL
 
 ## 📱 Projects
 
@@ -24,6 +24,18 @@ A comprehensive business operations platform that helps teams automate and strea
 - Real-time Analytics and Reporting
 - Cross-platform mobile applications
 - Centralized operation management
+
+### Avenue Fleet Web — Fleet Management Platform *(Private)*
+
+A full-stack fleet management web application built with Next.js and TypeScript. Features include:
+
+- Role-based access control and permission gating
+- Vehicle, booking, and contract management
+- Audit logging for all data mutations
+- PDF generation and document previews
+- AWS S3 file storage integration
+- Responsive design (mobile + desktop)
+- RESTful API with Zod validation and PostgreSQL via Prisma ORM
 
 ### Weather App ([Live Demo](https://weather-app-ke.web.app/))
 
